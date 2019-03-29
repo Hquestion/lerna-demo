@@ -2,5 +2,6 @@
   "name": "window",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "69b54c97d960d0c2ec4bcdf41a91576da3d742a3"
 }
